@@ -1,18 +1,33 @@
 <template>
   <div>
+    <img alt="Vue logo" src="../assets/logo.png" />
+
+    <div class="padding1" />
+
     <div class="container">
-          <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLScu5phbrIywXJTc8bsGuWEaRnh3jvuubccHecuW9OgbLCo-pw/viewform?usp=sf_link"
-            class="btn btn-outline-secondary btn-lg"
-            role="button"
-            aria-pressed="true">
-            Anmälan</a>
-          <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLScu5phbrIywXJTc8bsGuWEaRnh3jvuubccHecuW9OgbLCo-pw/viewform?usp=sf_link"
-            class="btn btn-outline-secondary btn-lg"
-            role="button"
-            aria-pressed="true">
-            Anmäl tal</a>
+      <a
+        href="https://docs.google.com/forms/d/e/1FAIpQLScu5phbrIywXJTc8bsGuWEaRnh3jvuubccHecuW9OgbLCo-pw/viewform?usp=sf_link"
+        class="btn btn-outline-secondary btn-lg"
+        role="button"
+        aria-pressed="true"
+      >Anmälan</a>
+      <a
+        href="https://docs.google.com/forms/d/e/1FAIpQLScu5phbrIywXJTc8bsGuWEaRnh3jvuubccHecuW9OgbLCo-pw/viewform?usp=sf_link"
+        class="btn btn-outline-secondary btn-lg"
+        role="button"
+        aria-pressed="true"
+      >Anmäl tal</a>
+    </div>
+
+    <div class="padding2" />
+
+    <div class="container">
+      <a
+        href="/info"
+        class="btn btn-outline-secondary btn-lg"
+        role="button"
+        aria-pressed="true"
+      >Info</a>
     </div>
   </div>
 </template>
@@ -28,6 +43,12 @@ export default class Home extends Vue {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.padding1 {
+  padding: 20px;
+}
+.padding2 {
+  padding: 10px;
+}
 h3 {
   margin: 40px 0 0;
 }
@@ -40,7 +61,7 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #719a5b;
   margin: 0 10px;
 }
 </style>
