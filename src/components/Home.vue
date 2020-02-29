@@ -29,6 +29,8 @@
         aria-pressed="true"
       >Info</a>
     </div>
+
+    <div class="padding2" />
   </div>
 </template>
 
