@@ -1,25 +1,18 @@
 <template>
   <div>
-    <h1>Home</h1>
     <div class="container">
-      <div class="row">
-        <div class="col-sm">
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLScu5phbrIywXJTc8bsGuWEaRnh3jvuubccHecuW9OgbLCo-pw/viewform?usp=sf_link"
-            class="btn btn-primary btn-lg active"
+            class="btn btn-outline-secondary btn-lg"
             role="button"
-            aria-pressed="true"
-          >Anmälan</a>
-        </div>
-        <div class="col-sm">
+            aria-pressed="true">
+            Anmälan</a>
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLScu5phbrIywXJTc8bsGuWEaRnh3jvuubccHecuW9OgbLCo-pw/viewform?usp=sf_link"
-            class="btn btn-primary btn-lg active"
+            class="btn btn-outline-secondary btn-lg"
             role="button"
-            aria-pressed="true"
-          >Anmäl tal</a>
-        </div>
-      </div>
+            aria-pressed="true">
+            Anmäl tal</a>
     </div>
   </div>
 </template>
@@ -48,5 +41,6 @@ li {
 }
 a {
   color: #42b983;
+  margin: 0 10px;
 }
 </style>
