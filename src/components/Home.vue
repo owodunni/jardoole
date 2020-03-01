@@ -16,10 +16,18 @@
         class="btn btn-outline-secondary btn-lg"
         role="button"
         aria-pressed="true"
+      >Anmäl buss</a>
+      <a
+        href="https://docs.google.com/forms/d/e/1FAIpQLScu5phbrIywXJTc8bsGuWEaRnh3jvuubccHecuW9OgbLCo-pw/viewform?usp=sf_link"
+        class="btn btn-outline-secondary btn-lg"
+        role="button"
+        aria-pressed="true"
       >Anmäl tal</a>
     </div>
 
     <div class="padding2" />
+
+    <p> O.S.A senast 30 April.</p>
 
     <div class="container">
       <a
@@ -64,6 +72,6 @@ li {
 }
 a {
   color: #719a5b;
-  margin: 0 10px;
+  margin: 10px 10px;
 }
 </style>

@@ -2,16 +2,28 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/info">Info</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/info">Info</router-link>
     </div>
-    <router-view/>
+    <router-view />
+    <!--CountDown/-->
   </div>
 </template>
 
+<script>
+// @ is an alias to /src
+import CountDown from '@/components/CountDown.vue'
+
+export default {
+  name: 'home',
+  components: {
+    // CountDown
+  }
+}
+</script>
+
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -19,7 +31,7 @@
   height: 100%;
 
   min-height: 100vh;
-  background-color:#f7ebd6;
+  background-color: #f7ebd6;
 }
 
 #nav {
