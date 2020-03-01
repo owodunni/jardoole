@@ -34,7 +34,7 @@
         <li>Emmy: 076-8025551</li>
         <li>
           Toastmasters:
-          <a class="link" href="mailto: toastmaster@jardoole.se">toastmaster@jardoole.se</a>
+          <a class="link" href="mailto: jardoole2020@gmail.com">jardoole2020@gmail.com</a>
         </li>
       </ul>
       <h3>Klädkod</h3>
