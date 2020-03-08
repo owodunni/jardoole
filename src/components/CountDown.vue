@@ -5,7 +5,7 @@
     <div id="clock" class="countdown pt-4">
         <span class="h1 font-weight-bold">{{days}}</span>days
         <span class="h1 font-weight-bold">{{hours}}</span>hr
-        <span class="h1 font-weight-bold">{{days}}</span>min
+        <span class="h1 font-weight-bold">{{minutes}}</span>min
         <span class="h1 font-weight-bold">{{seconds}}</span>sec
     </div>
   </div>
@@ -106,9 +106,9 @@ export default class CountDown extends Vue {
 }
 
 .bg-gradient-3 {
-    background: #ff416c;
-    background: -webkit-linear-gradient(to right, #ff416c, #ff4b2b);
-    background: linear-gradient(to right, #ff416c, #ff4b2b);
+    background: #719a5b;
+    background: -webkit-linear-gradient(to right, #719a5b, #466047);
+    background: linear-gradient(to right, #719a5b, #466047);
 }
 
 </style>
