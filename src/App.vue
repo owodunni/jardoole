@@ -5,7 +5,7 @@
       <router-link to="/info">Info</router-link>
     </div>
     <router-view />
-    <!--CountDown/-->
+    <CountDown/>
   </div>
 </template>
 
@@ -16,7 +16,7 @@ import CountDown from '@/components/CountDown.vue'
 export default {
   name: 'home',
   components: {
-    // CountDown
+    CountDown
   }
 }
 </script>

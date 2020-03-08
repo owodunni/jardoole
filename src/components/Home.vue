@@ -30,12 +30,9 @@
     <p> O.S.A senast 30 April.</p>
 
     <div class="container">
-      <a
-        href="/info"
+      <router-link
         class="btn btn-outline-secondary btn-lg"
-        role="button"
-        aria-pressed="true"
-      >Info</a>
+        to="/info">Info</router-link>
     </div>
 
     <div class="padding2" />

@@ -15,15 +15,20 @@
 <script lang="ts">
 import { Component, Prop, Vue, Watch } from 'vue-property-decorator'
 
+function time () {
+  return Math.trunc((new Date()).getTime() / 1000)
+}
+
 @Component
 export default class CountDown extends Vue {
   @Prop({ default: Date.parse('25 JUL 2020 12:00:00 UTC') }) readonly deadline!: number;
-  @Prop() private date!: number;
-  @Prop() private now!: number;
-  @Prop({ default: 0 }) private diff!: number;
-  @Prop() private interval!: any;
+
+  private date: number = 0
+  private interval: any = null
+  private now: number = time()
 
   created () {
+    console.log('beforeMount')
     let endTime = this.deadline
     this.date = Math.trunc(endTime / 1000)
 
@@ -32,18 +37,8 @@ export default class CountDown extends Vue {
     }
 
     this.interval = setInterval(() => {
-      this.now = Math.trunc((new Date()).getTime() / 1000)
+      this.now = time()
     }, 1000)
-  }
-
-  @Watch('now')
-  nameChanged (newVal: number) {
-    this.diff = this.date - this.now
-    if (this.diff <= 0) {
-      this.diff = 0
-      // Remove interval
-      clearInterval(this.interval)
-    }
   }
 
   get days (): number {
@@ -60,6 +55,16 @@ export default class CountDown extends Vue {
 
   get seconds (): number {
     return Math.trunc(this.diff) % 60
+  }
+
+  get diff (): number {
+    var diff_: number = this.date - this.now
+    if (diff_ <= 0) {
+      diff_ = 0
+      // Remove interval
+      clearInterval(this.interval)
+    }
+    return diff_
   }
 }
 </script>
