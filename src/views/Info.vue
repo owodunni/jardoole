@@ -12,7 +12,7 @@
       </p>
 
       <h3>Buss</h3>
-      <p>Det kommer gå en buss mellan Eksjö-Tranås-Kvarnkulla gård. Bussen kommer kosta 150 kr.
+      <p>Det kommer gå en buss mellan Eksjö-Tranås-Kvarnkulla gård. Bussen kommer kosta 150 kr, oavsett en eller två resor.
       <ul>
         <li>12:15 Eksjö Station</li>
         <li>13:10 Tranås Station</li>
