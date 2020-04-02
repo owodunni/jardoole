@@ -1,12 +1,12 @@
 <template>
 <div class="container">
   <div class="rounded bg-gradient-3 text-white shadow p-5 text-center mb-5">
-    <p class="mb-0 font-weight-bold text-uppercase">Vigsel börjar om</p>
-    <div id="clock" class="countdown pt-4">
-        <span class="h1 font-weight-bold">{{days}}</span>days
-        <span class="h1 font-weight-bold">{{hours}}</span>hr
-        <span class="h1 font-weight-bold">{{minutes}}</span>min
-        <span class="h1 font-weight-bold">{{seconds}}</span>sec
+    <p class="mb-0 font-weight-bold text-uppercase font-color">Vigsel börjar om</p>
+    <div id="clock" class="countdown pt-4 font-color">
+        <span class="h1 font-weight-bold font-color">{{days}}</span>days
+        <span class="h1 font-weight-bold font-color">{{hours}}</span>hr
+        <span class="h1 font-weight-bold font-color">{{minutes}}</span>min
+        <span class="h1 font-weight-bold font-color">{{seconds}}</span>sec
     </div>
   </div>
 </div>
@@ -28,7 +28,6 @@ export default class CountDown extends Vue {
   private now: number = time()
 
   created () {
-    console.log('beforeMount')
     let endTime = this.deadline
     this.date = Math.trunc(endTime / 1000)
 
@@ -73,6 +72,10 @@ export default class CountDown extends Vue {
 .countdown {
     text-transform: uppercase;
     font-weight: bold;
+}
+
+.font-color {
+  color: #f7ebd6;
 }
 
 .countdown span {

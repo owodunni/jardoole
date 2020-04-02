@@ -32,6 +32,7 @@ export default {
 
   min-height: 100vh;
   background-color: #f7ebd6;
+  padding-bottom: 30px;
 }
 
 #nav {
