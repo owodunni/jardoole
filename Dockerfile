@@ -12,6 +12,10 @@ RUN yarn global add @vue/cli
 COPY package.json package.json
 COPY yarn.lock yarn.lock
 RUN yarn install
+RUN npm install -g firebase-tools
+
+COPY . .
+
 
 # start app
 CMD ["npm", "run", "serve"]

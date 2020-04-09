@@ -1,28 +1,34 @@
 # jardoole
 
-## Project setup
+## Docker
+
+### Build
 ```
-yarn install
+docker build -t jardoole/wedding .
 ```
 
-### Compiles and hot-reloads for development
+### Run
 ```
-yarn serve
+docker run -p 8080:8080 jardoole/wedding
 ```
 
-### Compiles and minifies for production
+### Develop
+```
+docker run -p 8080:8080 -v $(pwd)/src:/app/src jardoole/wedding
+```
+
+### Deploy
+```
+docker run -it -p 9005:9005 jardoole/wedding /bin/sh
+```
+
 ```
 yarn build
 ```
 
-### Run your unit tests
 ```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
+firebase login
+firebase deploy
 ```
 
 ### Customize configuration

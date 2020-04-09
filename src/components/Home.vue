@@ -18,7 +18,7 @@
         aria-pressed="true"
       >Anmäl buss</a>
       <a
-        href="https://forms.gle/xnYS8XADEe5afEJH6"
+        href="https://docs.google.com/forms/d/e/1FAIpQLScfkZ9HtlBDGyEgEl7hL4HdrQbHXkBCbAbtGXdryWZpILiI9w/viewform?usp=sf_link"
         class="btn btn-outline-secondary btn-lg"
         role="button"
         aria-pressed="true"
