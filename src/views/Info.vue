@@ -22,8 +22,21 @@
       <h3>Hotell</h3>
       <p>
         Reserverade rum finns på
-        <a class="link" href="https://badhotellet.com">Badhotellet i Tranås</a> uppge bokningsnummer 334828 för rabatt. Här kommer brudparet bo!
+        <a class="link" href="https://badhotellet.com">Badhotellet i Tranås</a>. Uppge bokningsnummer 334828 för rabatt, rabatten gäller endast vid bokning via telefon eller mail.<br>
+         Här kommer brudparet bo!
       </p>
+      <p>Rummen är reserverade April ut men rabatten gäller tills bröllopet äger rum!</p>
+
+      <h3>Vandrarhem</h3>
+      Några platser finns reserverade på <a class="link" href="https://www.solviken.nu">Solvikens Vandrarhem</a>. Uppge Emmy Jardén för att ta del av reservationen.
+
+      <h3> Covid-19</h3>
+      <p>Som vi alla vet är ju framtiden är lite oviss just nu. För att ändå kunna planera väljer vi att i nuläget anta att bröllopet kan bli av,
+       och ber er att göra detsamma.
+       </p>
+
+       <p>Vi hör av oss vid förändringar</p>
+
       <h3>Toastmaster</h3>
       <p>
         Toastmasters för dagen är Josefine Norlander, Martina
