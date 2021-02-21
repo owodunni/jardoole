@@ -6,40 +6,28 @@
       <p>
         <i>Hjärtligt välkommna till vigsel mellan Alexander Poole och Emmy Jardén.</i></p>
         <p>Lördagen den
-        <b>25/7 klockan 14:00</b> i Kvarnkulla trädgård, Ydre.</p>
+        <b>10/7 klockan 14:00</b> i Kvarnkulla trädgård, Ydre.</p>
         <p>Efter vigseln fortsätter
         vi dagen med middag och fest på logen i Kvarnkulla gård.
       </p>
 
-      <h3>Buss</h3>
-      <p>Det kommer gå en buss mellan Eksjö-Tranås-Kvarnkulla gård. Bussen kommer kosta 150 kr, oavsett en eller två resor.
-      <ul>
-        <li>12:15 Eksjö Station</li>
-        <li>13:10 Tranås Station</li>
-        <li>01:00 Buss hem</li>
-        <li>03:00 Buss hem</li>
-      </ul>
-      <h3>Hotell</h3>
-      <p>
-        Reserverade rum finns på
-        <a class="link" href="https://badhotellet.com">Badhotellet i Tranås</a>. Uppge bokningsnummer 334828 för rabatt, rabatten gäller endast vid bokning via telefon eller mail.<br>
-         Här kommer brudparet bo!
-      </p>
-      <p>Rummen är reserverade April ut men rabatten gäller tills bröllopet äger rum!</p>
-
       <h3>Vandrarhem</h3>
-      Några platser finns reserverade på <a class="link" href="https://www.solviken.nu">Solvikens Vandrarhem</a>. Uppge Emmy Jardén för att ta del av reservationen.
+      <p>
+        Vi har reserverat
+        <a class="link" href="https://www.solviken.nu/">Solvikens vandrarhem</a> hela helgen.
+        31/3 öppnar vandrarhemmet upp för allmän bokning så tips är att boka rum innan dess,
+        man kan avboka rummen 7 dagar innan.
+        Ni kan boka <a class="link" href="https://solviken.nu/priser-och-bokning/">online</a>
+        ange bokningskoden E&A.<br><br>
 
-      <h3> Covid-19</h3>
-      <p>Som vi alla vet är ju framtiden är lite oviss just nu. För att ändå kunna planera väljer vi att i nuläget anta att bröllopet kan bli av,
-       och ber er att göra detsamma.
-       </p>
-
-       <p>Vi hör av oss vid förändringar</p>
+        Det går att ta sig med kollektivtrafik från Tranås. Det är ungefär 4km mellan
+        Kvarnkulla och Solviken, det kommer finnas transport till och från vandrarhemmet.<br><br>
+        Här kommer brudparet bo!
+      </p>
 
       <h3>Toastmaster</h3>
       <p>
-        Toastmasters för dagen är Josefine Norlander, Martina
+        Toastmasters för dagen är Martina
         Johansson &amp; Markus Engren
       </p>
       <p>Övriga frågor:</p>

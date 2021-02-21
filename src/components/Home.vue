@@ -12,12 +12,6 @@
         aria-pressed="true"
       >Anmälan</a>
       <a
-        href="https://docs.google.com/forms/d/e/1FAIpQLScPkzmdPpw2Q9F6N_hgxQaQ3QJtveSZtNNxB1K7u6uQr_NWjA/viewform?usp=sf_link"
-        class="btn btn-outline-secondary btn-lg"
-        role="button"
-        aria-pressed="true"
-      >Anmäl buss</a>
-      <a
         href="https://docs.google.com/forms/d/e/1FAIpQLScfkZ9HtlBDGyEgEl7hL4HdrQbHXkBCbAbtGXdryWZpILiI9w/viewform?usp=sf_link"
         class="btn btn-outline-secondary btn-lg"
         role="button"

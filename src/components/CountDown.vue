@@ -21,7 +21,7 @@ function time () {
 
 @Component
 export default class CountDown extends Vue {
-  @Prop({ default: Date.parse('25 JUL 2020 12:00:00 UTC') }) readonly deadline!: number;
+  @Prop({ default: Date.parse('10 JUL 2021 12:00:00 UTC') }) readonly deadline!: number;
 
   private date: number = 0
   private interval: any = null
