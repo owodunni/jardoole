@@ -6,9 +6,9 @@
       <p>
         <i>Hjärtligt välkommna till vigsel mellan Alexander Poole och Emmy Jardén.</i></p>
         <p>Lördagen den
-        <b>10/7 klockan 14:00</b> i Kvarnkulla trädgård, Ydre.</p>
+        <b>10/7 klockan 13:00</b> i Kvarnkulla trädgård, Ydre.</p>
         <p>Efter vigseln fortsätter
-        vi dagen med middag och fest på logen i Kvarnkulla gård.
+        vi dagen med mingel, snittar och tårta i Kvarnkulla trädgård.
       </p>
 
       <h3>Vandrarhem</h3>
@@ -21,7 +21,7 @@
         ange bokningskoden E&A.<br><br>
 
         Det går att ta sig med kollektivtrafik från Tranås. Det är ungefär 4km mellan
-        Kvarnkulla och Solviken, det kommer finnas transport till och från vandrarhemmet.<br><br>
+        Kvarnkulla och Solviken.<br><br>
         Här kommer brudparet bo!
       </p>
 

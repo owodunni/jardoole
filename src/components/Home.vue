@@ -21,8 +21,6 @@
 
     <div class="padding2" />
 
-    <p> O.S.A senast 17 Maj.</p>
-
     <div class="container">
       <router-link
         class="btn btn-outline-secondary btn-lg"
