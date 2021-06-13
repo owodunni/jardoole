@@ -6,7 +6,7 @@
       <p>
         <i>Hjärtligt välkommna till vigsel mellan Alexander Poole och Emmy Jardén.</i></p>
         <p>Lördagen den
-        <b>10/7 klockan 13:00</b> i Kvarnkulla trädgård, Ydre.</p>
+        <b>10/7 klockan 14:00</b> i Kvarnkulla trädgård, Ydre.</p>
         <p>Efter vigseln fortsätter
         vi dagen med mingel, snittar och tårta i Kvarnkulla trädgård.
       </p>
@@ -47,9 +47,12 @@
       </p>
       <h3>Presenter</h3>
       <p>
-        Vi önskar inga presenter men mottar gärna bidrag
-        till en bröllopsresa.
+        I san bröllops anda är vi nu ute i sista minuten med en
+        <a class="link" href="https://docs.google.com/spreadsheets/d/15s8CR35tAYBcZKicfWkAjadYaUVowadJqJPcXua8vcU/edit?usp=sharing">present lista!</a> För frågor kring present listan så kan ni höra av er till Sara Jardén.
       </p>
+      <ul>
+        <li>Telefon: 0706-836478</li>
+      </ul>
     </div>
   </div>
 </template>
