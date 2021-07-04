@@ -2,25 +2,6 @@
   <div>
     <img alt="Vue logo" src="../assets/logo.png" />
 
-    <div class="padding1" />
-
-    <div class="container">
-      <a
-        href="https://docs.google.com/forms/d/e/1FAIpQLScu5phbrIywXJTc8bsGuWEaRnh3jvuubccHecuW9OgbLCo-pw/viewform?usp=sf_link"
-        class="btn btn-outline-secondary btn-lg"
-        role="button"
-        aria-pressed="true"
-      >Anmälan</a>
-      <a
-        href="https://docs.google.com/forms/d/e/1FAIpQLScfkZ9HtlBDGyEgEl7hL4HdrQbHXkBCbAbtGXdryWZpILiI9w/viewform?usp=sf_link"
-        class="btn btn-outline-secondary btn-lg"
-        role="button"
-        aria-pressed="true"
-      >Anmäl tal</a>
-    </div>
-
-    <div class="padding2" />
-
     <div class="container">
       <router-link
         class="btn btn-outline-secondary btn-lg"
